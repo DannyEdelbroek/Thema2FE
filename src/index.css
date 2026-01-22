@@ -1,0 +1,15 @@
+.color-red {
+   color: #FF3F34; 
+}
+
+.button-red {
+    background-color: #FF3F34;
+}
+
+.btn.button-red:hover {
+    background-color: #ed1e13;
+}
+
+.anchor {
+    color: #FF3F34;
+}
